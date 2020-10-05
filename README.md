@@ -16,7 +16,7 @@ Doom-editor can be used with a map file to edit it ```./Doom-editor map_path```
 or without any map to create a new one ```./Doom-editor```
 
 The main goal of the game is to navigate through levels filled with various obstacles and/or enemies in a 3D like environment.
-You'll be able to move using the arrow keys or the WASD keys, jump with the spacebar, crouch with ctrl and sprint with shift.
+You'll be able to move using the arrow keys or the WASD keys, jump with the spacebar, crouch with ctrl and sprint with shift.  
 ![](docs/doom_main.gif)
 
 During your adventure you'll meet different kind of enemies featuring different behaviors. The ranged enemies will try to fire rockets at you
