@@ -54,8 +54,8 @@ An example of these events can be a door
 ![](docs/door.gif)
 
 ## Authors
-Lucas Nicosia
-Simon Patry
+Lucas Nicosia,
+Simon Patry,
 Gabriel Erhard  
   
 *all pictures and gifs of the project were created by Lucas Nicosia* 
