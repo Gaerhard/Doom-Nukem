@@ -56,4 +56,5 @@ An example of these events can be a door
 ## Authors
 Lucas Nicosia
 Simon Patry
-Gabriel Erhard
+Gabriel Erhard  
+*all pictures and gifs of the project were created by Lucas Nicosia* 
