@@ -1,4 +1,5 @@
 # Doom-Nukem
+[![gaerhard's 42 Doom Nukem Score](https://badge42.vercel.app/api/v2/clatwxbni01060fmdfe7xoii0/project/1910511)](https://github.com/JaeSeoKim/badge42)
 Doom-Nukem project from 42 school. The goal of the project was to create a game inspired by Duke Nukem and Doom from the early 90's.
 We had to reproduce it with the same conditions  as the original games, so we used C and no hardware acceleration.
 
